@@ -8,8 +8,8 @@ Utilized SQL queries to extract key performance indicators (KPIs) such as total 
 Created visualizations using Power BI to represent data trends and patterns.
 
 Tools Used:
-SQL
-Excel
+SQL,
+Excel,
 Power BI
 
 Outcome:
