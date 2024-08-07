@@ -6,8 +6,8 @@ To analyze pizza sales data and provide insights to improve business operations 
 Approach:
 Utilized SQL queries to extract key performance indicators (KPIs) such as total revenue, average order value, and total pizzas sold.
 Created visualizations using Power BI to represent data trends and patterns.
-Tools Used:
 
+Tools Used:
 SQL
 Excel
 Power BI
